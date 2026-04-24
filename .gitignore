@@ -1,0 +1,6 @@
+# Local-only secrets
+k8s/staging/dockerhub-regcred.yaml
+
+# OS/editor
+.DS_Store
+*.swp
